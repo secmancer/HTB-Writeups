@@ -1,0 +1,9 @@
+- HTB Academy offers multiple forms of support to help you overcome challenges.
+- For **general questions** about platform features, use the **Help** button in the bottom-right corner.
+- If stuck on **exercises or skills assessments**, detailed **solutions** are available for guided learning.
+    - Access them via the **Show Solution** button under the question.
+    - This feature is available to **annual subscribers** and **business customers**.
+- Students are encouraged to join the **Hack The Box community** for help and discussion:
+    - **Discord server** (recommended)
+    - **HTB Forum**
+    - **HTB Subreddit**

@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e02dd7daf300c913",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b5035c9a745c686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6f2760761b55c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c6eb87a2821d070",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b93589b4fcd792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "491e641c852cc255",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8fd75cdc2decb64b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b28c8e94d84b78a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54610b6f370b1627",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9cc365d302f4fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62970dc02ab43b76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Certs/CCNA/Notes/Day 10 - The IPv4 Header.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day 10 - The IPv4 Header"
+            }
+          },
+          {
+            "id": "231bd0f39c222577",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Certs/CCNA/Notes/Day 10 - The IPv4 Header.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Day 10 - The IPv4 Header"
+            }
+          },
+          {
+            "id": "483f5ccda32ea027",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "178f56bd26e640e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Certs/CCNA/Notes/Day 10 - The IPv4 Header.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day 10 - The IPv4 Header"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "9f6f2760761b55c2",
+  "lastOpenFiles": [
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Skills Assessment/Skills Assessment.md",
+    "Hack The Box/Academy/Job Paths/Job Paths Modules.md",
+    "CCNA/Notes/Day 25 - RIP & EIGRP.md",
+    "CCNA/CCNA.md",
+    "CCNA/Notes/Day 24 - Dynamic Routing.md",
+    "CCNA/Notes/Day 23 - EtherChannel.md",
+    "CCNA/Notes/Day 22 - Rapid Scanning Tree Protocol (RSTP).md",
+    "CCNA/Notes/Days 20 + 21 - Spanning Tree Protocol.md",
+    "CCNA/Notes/Day 19 - DTP & VTP.md",
+    "CCNA/Notes/Days 16 + 17 + 18 - VLANs.md",
+    "CCNA/Notes/Days 13 + 14 + 15 - Subnetting.md",
+    "CCNA/Notes/Day 12 - The Life of a Packet.md",
+    "CCNA/Notes/Day 11 - Routing Fundamentals & Static Routing.md",
+    "CCNA/Notes/Day 10 - The IPv4 Header.md",
+    "CCNA/Notes/Day 9 - Switch Interfaces.md",
+    "Let's Defend/ADD_STUFF_HERE.md",
+    "Let's Defend",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Network Security and Data Flow Analysis/Data Flow Example.md",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612014541.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Network Security and Data Flow Analysis/Network Security.md",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612014140.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Internet Architecture and Wireless Technologies/Wireless Networks.md",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Internet Architecture and Wireless Technologies/Internet Architecture.md",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612012236.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612012116.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612012002.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612011743.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612011632.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Network Communications and Addressing/Domain Name System (DNS).md",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Network Communications and Addressing/Network Address Translation (NAT).md",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Network Communications and Addressing/Dynamic Host Configuration Protocol (DHCP).md",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612011109.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612010923.png",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures",
+    "Hack The Box/Academy/Job Paths/Junior Cybersecurity Analyst/Network Foundations/Pictures/Pasted image 20260612005940.png",
+    "CCNA/Notes/Days 7 + 8 - IPv4 Addressing.md",
+    "Lets Defend/ADD_STUFF_HERE.md",
+    "pwn.college/White Belt/Computing 101/Your First Program.md",
+    "pwn.college/Blue Belt",
+    "pwn.college/Green Belt",
+    "pwn.college/Yellow Belt",
+    "pwn.college/Orange Belt",
+    "pwn.college/White Belt",
+    "pwn.college/Computing 101/Your First Program",
+    "pwn.college/Blue Belt/Software Exploitation",
+    "pwn.college/Green Belt/System Security"
+  ]
+}

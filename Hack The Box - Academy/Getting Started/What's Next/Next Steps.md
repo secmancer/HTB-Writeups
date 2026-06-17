@@ -1,0 +1,35 @@
+- **Next Steps After Completing the Module**
+    - Begin building your penetration testing skills and InfoSec portfolio.
+- **Boxes & Challenges**
+    - **Root a Retired Easy Box**:
+        - Follow the VIP writeup or video walkthrough.
+        - Try to replicate steps on your own before referring back.
+    - **Complete a Retired Medium Box**:
+        - Move up to more complex boxes requiring deeper knowledge.
+    - **Root Your First Live Box**:
+        - After 5–10 retired boxes, attempt a live Easy box (difficulty 1–3).
+        - Seek help through forums or Discord if stuck.
+        - Completing live boxes without walkthroughs marks strong progress.
+- **Keep Learning**
+    - Don’t rely only on walkthroughs—study topics through **Academy Modules**.
+    - Boxes cover specific areas; modules build full, structured knowledge.
+    - Create a **“To-Do” list** of modules to revisit for skill improvement.
+- **Giving Back**
+    - **Answer Questions**:
+        - Help others in forums or Discord as you gain experience.
+        - Builds reputation and strengthens your understanding.
+    - **Share a Retired Box Walkthrough**:
+        - Document steps and commands clearly.
+        - Publish writeups for **recently retired boxes**.
+        - Enhances reporting/documentation skills essential for pentesters.
+- **Way Forward**
+    - Continue progressing through milestones:
+        - Root Retired Easy/Medium Boxes
+        - Root Active Boxes
+        - Complete Challenges
+        - Share Walkthroughs
+        - Complete Offensive Academy Modules
+        - Root Live Medium/Hard Boxes
+        - Complete Tracks and Pro Labs
+        - Win a Battlegrounds Battle
+    - **Key reminder**: Never stop learning—growth depends on continuous practice.

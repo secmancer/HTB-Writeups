@@ -1,0 +1,23 @@
+- **Getting Help on HTB**: Follow HTB rules at all times.
+- **Forum**:
+    - Each box has an official discussion thread.
+    - Useful for hints (no spoilers) on both live and retired boxes.
+    - Great for learning from others’ troubleshooting and tips.
+- **Discord**:
+    - Join the official HTB Discord for discussions, news, and support.
+    - Covers topics like Boxes, Challenges, Academy, Labs, and General Support.
+    - Rules: No trolling; keep content safe for work; read server rules.
+- **Asking Questions Effectively**:
+    - State clearly where you’re stuck (user/root).
+    - Explain what steps you’ve taken so far.
+    - Describe what isn’t working and what you’ve tried.
+    - Be specific and avoid vague requests for help.
+    - Don’t share spoilers or explicit solutions.
+- **Answering Questions Effectively**:
+    - Avoid spoilers or giving full solutions.
+    - Offer small hints and useful resources.
+    - Encourage learning over point farming.
+    - Help others to reinforce your own understanding and build community ties.
+- **Technical Help**:
+    - Check the official HTB FAQ for detailed solutions.
+    - If unresolved, raise a support ticket via HTB Support (ensure adblockers are off for chat).

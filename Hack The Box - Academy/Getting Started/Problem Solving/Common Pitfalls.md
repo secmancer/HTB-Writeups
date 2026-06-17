@@ -1,0 +1,21 @@
+- **Common Pitfalls**: Mistakes during pentests or HTB labs can slow progress.
+- **VPN Issues**:
+    - Ensure you’re connected to the HTB VPN.
+    - **Check connection**: Look for “Initialization Sequence Completed” in OpenVPN logs.
+    - **Check IP**: Run `ip -4 a show tun0` to confirm VPN address.
+    - **Check routes**: Use `sudo netstat -rn` to verify `tun0` routes to `10.10.14.0/23` and `10.129.0.0/16`.
+    - **Ping gateway**: `ping -c 4 10.10.14.1` should respond with 0% packet loss.
+    - You can then enumerate or attack targets in the `10.129.0.0/16` range.
+- **Multiple Devices**: HTB VPN allows only one active connection per account. Disconnect from one device before connecting from another.
+- **Region Selection**:
+    - Choose the nearest VPN region (EU, USA, AU, SG) for lower latency.
+    - Free users can access limited servers; VIP users get faster, less crowded servers.
+- **Troubleshooting**:
+    - Use the HTB Help page for VPN issues.
+- **Burp Suite Proxy Issues**:
+    - Leaving the browser proxy on after closing Burp blocks internet access.
+    - Fix: Disable the proxy using FoxyProxy or browser connection settings.
+- **SSH Key/Password Problems**:
+    - Regenerate SSH keys with `ssh-keygen` if connection issues arise.
+    - Default storage: `~/.ssh/` (e.g., `/home/user/.ssh/id_rsa`).
+    - Optionally protect the key with a passphrase.

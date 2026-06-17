@@ -1,0 +1,42 @@
+# Beginner roadmap & resource cheat-sheet — bullets
+- Learning approaches
+    - **Guided learning** (HTB Academy): structured modules + hands-on exercises → builds correct foundations and checkpoints.
+    - **Exploratory learning** (HTB main platform): black-box challenges and machines → builds problem-solving, enumeration, and real-world methodology.
+    - **Mix both** — use guided content to learn techniques, then apply them on exploratory machines to internalize skills.
+- Practice platforms & vulnerable targets to set up in a lab
+    - OWASP Juice Shop (modern web app / OWASP Top Ten)
+    - Metasploitable 2 / 3 (vulnerable Linux / Windows VMs)
+    - DVWA (PHP/MySQL web app with graded vulnerabilities)
+    - Build small labs yourself to practice webservers, SSH, configs, backups.
+- HTB-specific learning paths
+    - **HTB Academy (Starting Point)** — great for beginners; step-by-step modules + hands-on exercises.
+    - **HTB main platform** — machines (single boxes), Endgames (mini labs), Fortresses, and Pro Labs (enterprise networks).
+    - Use retired machines + community walkthroughs to compare approaches and learn different styles.
+- Recommended community resources
+    - YouTube: **IppSec**, **VbScrub**, **STÖK**, **LiveOverflow** — excellent walkthroughs and technique videos.
+    - Blogs: many writeups exist; **0xdf hacks stuff** recommended (great “Beyond Root” insights).
+    - Check multiple writeups/videos per box to learn alternate approaches.
+- Tutorial sites / fundamentals
+    - **OverTheWire** (Linux/Bash practice) and **UnderTheWire** (PowerShell/Windows practice) — excellent for building command-line/scripting fundamentals.
+    - Practice scripting (Bash, PowerShell, Python) — essential for automation and exploitation techniques.
+- Good beginner HTB targets & playlists
+    - Beginner-friendly machines: **Lame, Blue, Nibbles, Shocker, Jerry**.
+    - IppSec playlists: “Easy Linux Boxes” and “Easy Windows Boxes” — use while you practice.
+- Challenges & Pro Labs
+    - Try beginner challenges (e.g., Find The Easy Pass, Weak RSA) for focused skill tests.
+    - **Dante Pro Lab**: recommended starter Pro Lab — simulates enterprise workflow and multi-host pivoting.
+- How to learn efficiently (practical tips)
+    - Start with guided modules, then apply techniques on easy retired machines.
+    - Read/watch multiple walkthroughs for the same box to learn varied thinking.
+    - Keep a notes repo: commands, enumeration checklist, common payloads, and remediation suggestions.
+    - Practice safe lab hygiene (snapshots, isolated VMs).
+    - Balance breadth (many small things) and depth (deep dive into a few topics).
+- Mental model / career tips
+    - Many people start from zero and progress to HTB success — consistent practice matters more than innate talent.
+    - Focus on fundamentals (networking, Linux/Windows administration, scripting) while slowly layering pentest-specific skills.
+    - Use community content, but build your own workflows and playbook.
+- Next step (actionable)
+    - If you want, I can:
+        - produce a one-page study plan (8–12 weeks) tailored for a beginner, or
+        - walk through an easy HTB box step-by-step (I can start with **Lame** and show enumeration → foothold → privesc), or
+        - generate a printable cheat-sheet of the resources above.

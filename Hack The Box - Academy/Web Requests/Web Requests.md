@@ -1,3 +1,0 @@
-[[HTTP Methods]]
-[[HTTP Fundamentals]]
-

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22dad890d7eaad14",
+        "id": "53d6b44d7e291040",
         "type": "tabs",
         "children": [
           {
-            "id": "8135f6fca0220005",
+            "id": "fc0ee0c78fb98d2e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,6 +177,9 @@
   },
   "active": "491e641c852cc255",
   "lastOpenFiles": [
+    "Hack The Box - Machines",
+    "Hack The Box - Starting Point/Vaccine.md",
+    "Hack The Box - Starting Point/Three.md",
     "Hack The Box - Sherlocks/SalineBreeze-1.md",
     "Hack The Box - Sherlocks/RomCom.md",
     "Hack The Box - Sherlocks/PhishNet.md",
@@ -213,9 +216,6 @@
     "Hack The Box - Starting Point/Dancing.md",
     "Hack The Box - Starting Point/Base.md",
     "Hack The Box - Starting Point/Archetype.md",
-    "Hack The Box - Starting Point/Oopsie.md",
-    "Hack The Box - Starting Point/Vaccine.md",
-    "Hack The Box - Starting Point/Unified.md",
     "Hack The Box - Academy/Network Foundations/Skills Assessment",
     "Hack The Box - Academy/Network Foundations/Pictures",
     "Hack The Box - Academy/Network Foundations/Networking Fundamentals",

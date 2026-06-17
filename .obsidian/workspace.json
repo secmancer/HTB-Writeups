@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "570e6bae05f8811a",
+        "id": "22dad890d7eaad14",
         "type": "tabs",
         "children": [
           {
-            "id": "9e108ef43223cc0b",
+            "id": "8135f6fca0220005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hack The Box - Labs/Dancing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dancing"
+              "title": "New tab"
             }
           }
         ]
@@ -179,34 +175,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e108ef43223cc0b",
+  "active": "491e641c852cc255",
   "lastOpenFiles": [
-    "Hack The Box - Labs/Base.md",
-    "Hack The Box - Labs/Archetype.md",
-    "Hack The Box - Labs/Oopsie.md",
-    "Hack The Box - Labs/Vaccine.md",
-    "Hack The Box - Labs/Unified.md",
-    "Hack The Box - Labs/Three.md",
-    "Hack The Box - Labs/Synced.md",
-    "Hack The Box - Labs/Sequel.md",
-    "Hack The Box - Labs/Redeemer.md",
-    "Hack The Box - Labs/Appointment.md",
+    "Hack The Box - Starting Point/Dancing.md",
+    "Hack The Box - Starting Point/Base.md",
+    "Hack The Box - Starting Point/Archetype.md",
+    "Hack The Box - Starting Point/Oopsie.md",
+    "Hack The Box - Starting Point/Vaccine.md",
+    "Hack The Box - Starting Point/Unified.md",
+    "Hack The Box - Starting Point/Three.md",
+    "Hack The Box - Starting Point/Synced.md",
+    "Hack The Box - Starting Point/Sequel.md",
+    "Hack The Box - Starting Point/Redeemer.md",
+    "Hack The Box - Starting Point/Appointment.md",
     "Hack The Box - Labs/Hack The Box Starting Point.md",
-    "Hack The Box - Labs/Tactics.md",
-    "Hack The Box - Labs/Responder.md",
-    "Hack The Box - Labs/Preignition.md",
-    "Hack The Box - Labs/Pennyworth.md",
-    "Hack The Box - Labs/Mongod.md",
-    "Hack The Box - Labs/Meow.md",
-    "Hack The Box - Labs/Markup.md",
-    "Hack The Box - Labs/Included.md",
-    "Hack The Box - Labs/Ignition.md",
-    "Hack The Box - Labs/Funnel.md",
-    "Hack The Box - Labs/Fawn.md",
-    "Hack The Box - Labs/Explosion.md",
-    "Hack The Box - Labs/Dancing.md",
-    "Hack The Box - Labs/Crocodile.md",
-    "Hack The Box - Labs/Bike.md",
+    "Hack The Box - Starting Point/Tactics.md",
+    "Hack The Box - Starting Point/Responder.md",
+    "Hack The Box - Starting Point/Preignition.md",
+    "Hack The Box - Starting Point/Pennyworth.md",
+    "Hack The Box - Starting Point/Mongod.md",
+    "Hack The Box - Starting Point/Meow.md",
+    "Hack The Box - Starting Point/Markup.md",
+    "Hack The Box - Starting Point/Included.md",
+    "Hack The Box - Starting Point/Ignition.md",
+    "Hack The Box - Starting Point/Funnel.md",
+    "Hack The Box - Starting Point/Fawn.md",
+    "Hack The Box - Starting Point/Explosion.md",
+    "Hack The Box - Starting Point/Crocodile.md",
+    "Hack The Box - Starting Point/Bike.md",
     "Hack The Box - Academy/Network Foundations/Pictures/Pasted image 20260612014541.png",
     "Hack The Box - Academy/Network Foundations/Pictures/Pasted image 20260612014140.png",
     "Hack The Box - Academy/Network Foundations/Pictures/Pasted image 20260612012236.png",

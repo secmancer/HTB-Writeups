@@ -1,7 +1,0 @@
-- Congratulations on finishing **JavaScript Deobfuscation** — you can now recognize and reverse obfuscated scripts, decode their outputs, and reproduce their behavior.
-- Inspect the webpage HTML to find the embedded JavaScript.
-- Learn common JavaScript obfuscation techniques.
-- Beautify and deobfuscate minified/obfuscated code to make it readable.
-- Analyze the deobfuscated code to understand its main function.
-- Understand and reproduce the code’s HTTP requests and core functionality.
-- Learn methods for encoding and decoding strings used in obfuscation.

@@ -1,4 +1,0 @@
-- Hack The Box Academy aims to provide an interactive and engaging learning experience.
-- Uses a guided learning approach to help users learn by doing.
-- Includes many hands-on exercises to apply learned concepts and test understanding.
-- Each module typically ends with a Skills Assessment simulating real-world scenarios.
